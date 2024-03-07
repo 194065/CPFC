@@ -5,10 +5,10 @@
 }
 
 body{
-    background-color: cadetblue;
-    color: white;
+    background-color: var(--cadetblue);
+    color: var(white);
 }
 
 img{
-    width: 30% ;
+    width: 30%;
 }
