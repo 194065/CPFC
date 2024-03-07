@@ -1,8 +1,10 @@
 :root{
-    --preto: #5F9EA0
+    
+    --preto: #5F9EA0;
+    
 }
 
-{
+body{
     background-color: cadetblue;
     color: white;
 }
