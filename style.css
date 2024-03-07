@@ -1,12 +1,13 @@
 :root{
     
-    --preto: #5F9EA0;
+    --cadetblue: #5F9EA0;
+    --white: #ffffff;
     
 }
 
 body{
     background-color: var(--cadetblue);
-    color: var(white);
+    color: var(--white);
 }
 
 img{
