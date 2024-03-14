@@ -23,3 +23,7 @@ header{
 .img-intro{
    width: 20%;
 }
+
+.intro{
+       display: flex;
+}
