@@ -21,7 +21,11 @@ header{
    width: 20%;
 }
 
-.intro{
-       display: flex;
-
+.intro {
+    display: flex;
+    background: teal;
+    margin: 20px 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 5px solid green;
 }
