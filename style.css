@@ -30,4 +30,7 @@ header{
     border: 5px solid green;
 }
 
-.CPFC
+.CPFC {
+    display: grid;
+    grid-template-columns: 33% 33% 33% ;
+}
