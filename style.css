@@ -32,10 +32,14 @@ header{
 
 .CPFC {
     display: grid;
-    grid-template-columns: 33% 33% 33% ;
+    grid-template-columns: 33% 34% 33% ;
     text-align: center;
 }
 
 .foto-equipe{
     width: 40%;
+}
+
+.pessoa{
+    border: 3px solid green;
 }
