@@ -34,7 +34,7 @@ header{
     display: grid;
     grid-template-columns: 33% 34% 33% ;
     text-align: center;
-    background-color: rgb(102, 102, 102);
+    background-color: rgb(0, 96, 2);
 }
 
 .foto-equipe{
