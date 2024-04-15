@@ -34,7 +34,7 @@ header{
     display: grid;
     grid-template-columns: 33% 34% 33% ;
     text-align: center;
-    background-color: rgb(0, 0, 0);
+    background-color: white;
 }
 
 .foto-equipe{
@@ -42,7 +42,7 @@ header{
 }
 
 .pessoa{
-    border: 3px solid rgb(255, 255, 255);
+    border: 3px solid white;
     margin: 12px;
 }
 
