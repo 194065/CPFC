@@ -5,7 +5,7 @@
 
 body{
     background-color: var(--cadetblue);
-    color: var(--white);
+    color: var(--black);
 }
 
 img{
@@ -51,7 +51,7 @@ footer{
     color:black;
 }
 
-a{ 
+header a{ 
     color: black;
     text-decoration: none;
 }
