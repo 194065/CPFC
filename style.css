@@ -45,3 +45,8 @@ header{
     border: 3px solid green;
     margin: 12px;
 }
+
+footer{
+    background-color: black
+    color white;
+}
