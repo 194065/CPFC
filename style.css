@@ -14,8 +14,8 @@ img{
 
 header{
     display: flex;
-    align-items: center;
-    justify-content: column;
+    align-items: flex-start;
+    justify-content: center;
 }
 .img-intro{
    width: 20%;
