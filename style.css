@@ -8,6 +8,10 @@
 body{
     background-color: var(--green);
     color: var(--white);
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 img{
@@ -31,6 +35,7 @@ header{
     border-radius: 5px;
     border: 5px solid green;
     justify-content: space-between;
+    
 }
 
 #equipe{
